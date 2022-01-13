@@ -5,14 +5,6 @@ import {
   useCallback,
 } from 'react';
 
-import {
-  setDate,
-  setHours,
-  setMinutes,
-  setSeconds,
-  differenceInSeconds,
-} from 'date-fns';
-
 const baseDate = +new Date(`04/25/2022`);
 
 const useTimer = () => {

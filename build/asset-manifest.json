@@ -1,27 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c54449e3.chunk.css",
-    "main.js": "/static/js/main.f602ceba.chunk.js",
-    "main.js.map": "/static/js/main.f602ceba.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f547c4e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f547c4e2.js.map",
-    "static/js/2.194cfc3d.chunk.js": "/static/js/2.194cfc3d.chunk.js",
-    "static/js/2.194cfc3d.chunk.js.map": "/static/js/2.194cfc3d.chunk.js.map",
-    "static/js/3.4e4d2405.chunk.js": "/static/js/3.4e4d2405.chunk.js",
-    "static/js/3.4e4d2405.chunk.js.map": "/static/js/3.4e4d2405.chunk.js.map",
+    "main.css": "/static/css/main.72ddc7ae.chunk.css",
+    "main.js": "/static/js/main.698e2f76.chunk.js",
+    "main.js.map": "/static/js/main.698e2f76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08c6281a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08c6281a.js.map",
+    "static/js/2.2bcd7415.chunk.js": "/static/js/2.2bcd7415.chunk.js",
+    "static/js/2.2bcd7415.chunk.js.map": "/static/js/2.2bcd7415.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c54449e3.chunk.css.map": "/static/css/main.c54449e3.chunk.css.map",
-    "static/js/2.194cfc3d.chunk.js.LICENSE.txt": "/static/js/2.194cfc3d.chunk.js.LICENSE.txt",
-    "static/media/bg-stars.166881a1.svg": "/static/media/bg-stars.166881a1.svg",
-    "static/media/icon-facebook.51ddfb08.svg": "/static/media/icon-facebook.51ddfb08.svg",
-    "static/media/icon-instagram.653bce71.svg": "/static/media/icon-instagram.653bce71.svg",
-    "static/media/icon-pinterest.157525e1.svg": "/static/media/icon-pinterest.157525e1.svg",
-    "static/media/pattern-hills.815d688f.svg": "/static/media/pattern-hills.815d688f.svg"
+    "static/css/main.72ddc7ae.chunk.css.map": "/static/css/main.72ddc7ae.chunk.css.map",
+    "static/js/2.2bcd7415.chunk.js.LICENSE.txt": "/static/js/2.2bcd7415.chunk.js.LICENSE.txt",
+    "static/media/movio.c4e660b7.svg": "/static/media/movio.c4e660b7.svg",
+    "static/media/vegas.992898d9.png": "/static/media/vegas.992898d9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f547c4e2.js",
-    "static/js/2.194cfc3d.chunk.js",
-    "static/css/main.c54449e3.chunk.css",
-    "static/js/main.f602ceba.chunk.js"
+    "static/js/runtime-main.08c6281a.js",
+    "static/js/2.2bcd7415.chunk.js",
+    "static/css/main.72ddc7ae.chunk.css",
+    "static/js/main.698e2f76.chunk.js"
   ]
 }
